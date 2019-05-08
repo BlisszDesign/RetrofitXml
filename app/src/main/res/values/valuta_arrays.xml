@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valuta_array">
+        <item>GDB</item>
+        <item>AUD</item>
+        <item>DKK</item>
+        <item>JPY</item>
+        <item>CAD</item>
+        <item>NOK</item>
+        <item>CHF</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>CZK</item>
+        <item>PLN</item>
+        <item>eur</item>
+        <item>HRK</item>
+        <item>RON</item>
+        <item>TRY</item>
+    </string-array>
+</resources>
